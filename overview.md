@@ -34,3 +34,18 @@ For this assignment, you can find the p1_charityml folder containing the necessa
  - visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
 
 In the Terminal or Command Prompt, navigate to the folder on your machine where you've put the project files, and then use the command jupyter notebook finding_donors.ipynb to open up a browser window or tab to work with your notebook. Alternatively, you can use the command jupyter notebook or ipython notebook and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A README file has also been provided with the project files which may contain additional necessary information or instruction for the project.
+
+## Submitting the Project
+### Evaluation
+Your project will be reviewed by a Udacity reviewer against the **Finding Donors for CharityML project rubric**. Be sure to review this rubric thoroughly and self-evaluate your project before submission. All criteria found in the rubric must be meeting specifications for you to pass.
+
+### Submission Files
+Following files would be needed for evaluation:
+
+ - The finding_donors.ipynb notebook file with all questions answered and all code cells executed and displaying output.
+ - An **HTML** export of the project notebook with the name **report.html**. This file must be present for your project to be evaluated.
+When you are ready to submit your project, There are three ways in which your project can be submitted for evaluation.
+
+ 1. If you run the notebook from your **local machine** collect the above files and compress them into a single archive for upload.
+ 2. You could supply the above files on your **GitHub Repo** in a folder named finding_donors for ease of access. This would build a good Github profile in parallel.
+ 3. If you worked using the **workspace inside the classroom** you can submit your project directly for review using the submit button at the end of the project, just make sure you download the HTML report to your local machine and upload it back into the workspace BEFORE submitting your report.
