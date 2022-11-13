@@ -27,7 +27,7 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
 ## Starting the Project
-For this assignment, you can find the p1_charityml folder containing the necessary project files on the Supervised Learning GitHub, under the starter folder. This project contains three files that you will need to use:
+For this assignment, you can find the `p1_charityml folder containing the necessary project files on the Supervised Learning GitHub, under the starter folder. This project contains three files that you will need to use:
 
  - finding_donors.ipynb: This is the main file where you will be performing your work on the project.
  - census.csv: The project dataset. You'll load this data in the notebook.
